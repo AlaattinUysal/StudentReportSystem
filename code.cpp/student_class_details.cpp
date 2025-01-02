@@ -1,6 +1,4 @@
 
-//425492 Alaattin Uysal
-//425476 Abdulkerim Çiçek
 
 #include <iostream>
 #include <iomanip>
