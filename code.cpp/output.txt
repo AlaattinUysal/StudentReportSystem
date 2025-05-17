@@ -1,0 +1,37 @@
+Student Name: Lisa Miller
+Student ID: 890238
+Number of Courses Enrolled: 4
+Course No	Course Name	Credits	Grade
+----------------------------------------
+MTH345	Mathematics	4	A
+PHY357	Physics	3	B
+CSC478	ComputerSci	3	B
+HIS356	History	3	A
+----------------------------------------
+Total Number of Credits: 13
+Mid-Semester GPA: 3.54
+
+Student Name: John Smith
+Student ID: 891234
+Number of Courses Enrolled: 3
+Course No	Course Name	Credits	Grade
+----------------------------------------
+CHM201	Chemistry	4	Not Paid
+BIO101	Biology	3	Not Paid
+PHY101	Physics	3	Not Paid
+----------------------------------------
+Total Number of Credits: 10
+Mid-Semester GPA: Tuition fee not paid yet!
+
+Student Name: Mary Johnson
+Student ID: 892345
+Number of Courses Enrolled: 3
+Course No	Course Name	Credits	Grade
+----------------------------------------
+ENG101	English	3	A
+PSY201	Psychology	3	B
+SOC101	Sociology	3	A
+----------------------------------------
+Total Number of Credits: 9
+Mid-Semester GPA: 3.67
+

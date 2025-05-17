@@ -1,0 +1,14 @@
+3 345
+Lisa Miller 890238 Y 4
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+ComputerSci CSC478 3 B
+History HIS356 3 A
+John Smith 891234 N 3
+Chemistry CHM201 4 B
+Biology BIO101 3 C
+Physics PHY101 3 A
+Mary Johnson 892345 Y 3
+English ENG101 3 A
+Psychology PSY201 3 B
+Sociology SOC101 3 A 
